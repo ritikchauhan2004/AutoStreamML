@@ -1,0 +1,4 @@
+Streamlit
+Pandas
+pandas_profiling
+PyCaret
