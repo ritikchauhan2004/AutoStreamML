@@ -57,5 +57,5 @@ This project is designed for data analysts, data scientists, and students who wa
 ### 🔧 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/AutoStreamML.git
+git clone https://github.com/ritikchauhan2004/AutoStreamML.git
 cd AutoStreamML
